@@ -1,28 +1,17 @@
 **1) File list**
 
-a_Reconstruction_Capture_pair_basler.py
-
-b_Reconstruction_Stereo_calibrate.py
-
-c_Reconstruction_Disparity_Pointcloud.py
-
-d_Visibility_effect.py
-
-e1_Pointcloud_processing_Orientation.m
-
-e2_Pointcloud_processing_SeparatedBolt.m
-
-e3_Pointcloud_processing_Fitted_rectanglar.m
-
-e4_Pointcloud_processing_RotateBolt.m
-
-e5_Pointcloud_processing_Sorting.m
-
-f1_length_data_manual.m
-
-f2_boundary_map.m
-
-f3_pointnet-master.zip
+a_Reconstruction_Capture_pair_basler.py  
+b_Reconstruction_Stereo_calibrate.py  
+c_Reconstruction_Disparity_Pointcloud.py  
+d_Visibility_effect.py  
+e1_Pointcloud_processing_Orientation.m  
+e2_Pointcloud_processing_SeparatedBolt.m  
+e3_Pointcloud_processing_Fitted_rectanglar.m  
+e4_Pointcloud_processing_RotateBolt.m  
+e5_Pointcloud_processing_Sorting.m  
+f1_length_data_manual.m  
+f2_boundary_map.m  
+f3_pointnet-master.zip  
 ________________________________________
 **2) Procedure workflow**
 Pipeline: Capture → Calibrate → Reconstruct → Process → Train/Test PointNet
