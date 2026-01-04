@@ -61,3 +61,4 @@ ________________________________________
 **PointNet Deep Learning** 
 f3_pointnet-master.zip  
 Goal: PointNet codebase for training/testing segmentation/classification  
+Reference to: https://github.com/charlesq34/pointnet.git
