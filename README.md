@@ -19,7 +19,7 @@ Pipeline: Capture → Calibrate → Reconstruct → Process → Train/Test Point
 Run: a_Reconstruction_Capture_pair_basler.py  
 Goal: capture left/right images using stereo camera.  
 ________________________________________
-**Step B. Stereo calibration (intrinsics + rectification)  **
+**Step B. Stereo calibration (intrinsics + rectification)**  
 Run: b_Reconstruction_Stereo_calibrate.py  
 Input: chessboard images  
 Goal: compute calibration and save parameters of cameras  
