@@ -33,7 +33,7 @@ ________________________________________
 Run: d_Visibility_effect.py  
 Goal: apply visibility filtering (remove shadowed/hidden points) or evaluate occlusion effects  
 ________________________________________
-**MATLAB processing pipeline (bolt point-cloud processing)  **
+**MATLAB processing pipeline (bolt point-cloud processing)**  
 **Step E1.** Point cloud orientation alignment  
 Run: e1_Pointcloud_processing_Orientation.m  
 Goal: rotate point clouds into a consistent orientation.  
