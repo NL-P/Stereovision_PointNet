@@ -15,7 +15,7 @@ f3_pointnet-master.zip
 ________________________________________
 **2) PROCEDURE WORKFLOW**  
 Pipeline: Capture → Calibrate → Reconstruct → Process → Train/Test PointNet  
-**Step A. Capture stereo images (Basler) ** 
+**Step A. Capture stereo images (Basler)**  
 Run: a_Reconstruction_Capture_pair_basler.py  
 Goal: capture left/right images using stereo camera.  
 ________________________________________
