@@ -13,7 +13,7 @@ f1_length_data_manual.m
 f2_boundary_map.m  
 f3_pointnet-master.zip  
 ________________________________________
-**2) PROCEDURE WORKFLOW**
+**2) PROCEDURE WORKFLOW**  
 Pipeline: Capture → Calibrate → Reconstruct → Process → Train/Test PointNet  
 **Step A. Capture stereo images (Basler) ** 
 Run: a_Reconstruction_Capture_pair_basler.py  
